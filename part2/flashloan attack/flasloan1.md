@@ -1,0 +1,7 @@
+ # The Bzx Protocol Incident
+ 
+ A flashloan attack occurred on the decentralised finance (DeFi) platform Bzx Protocol in 2020. A flashloan is a type of cryptocurrency loan that needs to be paid back in full inside a single transaction block and happens instantaneously without the need for collateral. By means of a flaw in the smart contract of the Bzx Protocol, the attacker managed to obtain a sizeable flashloan.
+
+The attacker used a complex set of transactions to manipulate the price oracle and fraudulently increase the value of particular assets. By using this strategy, they were able to collateralize their flashloan for less than what was required. Simultaneously, the attacker used these assets, which were undervalued, as security to borrow a substantial amount from Bzx. They made trades using the borrowed money, taking advantage of the distorted market conditions.
+
+ The Bzx Protocol attack brought to light how crucial it is to establish safe smart contracts and how important it is for DeFi platforms to have strong risk management systems. In the wake of the event, Bzx added new security controls, like improved auditing and the incorporation of decentralised oracles for more precise pricing, to stop similar exploits.
